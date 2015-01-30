@@ -1,17 +1,7 @@
 <?php
 /**
  * dumpster
- * generator.php
- *
- * PHP Version 5
- *
- * @category Production
- * @package  Default
- * @author   Philipp Tkachev <philipp@marketmesuite.com>
- * @date     1/29/15 8:16 PM
- * @license  http://marketmesuite.com/license.txt MMS License
- * @version  GIT: 1.0
- * @link     http://marketmesuite.com/
+
  */
 
 
