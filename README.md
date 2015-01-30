@@ -22,7 +22,7 @@ Little demo for capped collections, tailable cursor and live monitoring in Firef
         /usr/local/bin/node bin/www
    
    
-5. Run data generators (you can open several consoles, or use screen sessions)
+5. Run data generators (you can open several consoles, or use `screen` sessions)
 
         php generator.php
  
