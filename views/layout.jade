@@ -1,0 +1,17 @@
+doctype html
+html(ng-app="dumpsterApp")
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body(ng-controller="AppCtrl")
+    block content
+
+    script(src='/socket.io/socket.io.js')
+    script(src='/javascripts/components/angular/angular.js')
+    script(src='/javascripts/components/angular-route/angular-route.js')
+    script(src='/javascripts/components/angular-socket-io/socket.js')
+    script(src='/javascripts/app.js')
+    script(src='/javascripts/services.js')
+    script(src='/javascripts/controllers.js')
+    script(src='/javascripts/filters.js')
+    script(src='/javascripts/directives.js')

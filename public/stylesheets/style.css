@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #00b7ff;
+}
+tr.s0 {
+  background-color: #e6e6fa;
+}
+tr.s1 {
+  background-color: #98fb98;
+}
+tr.s2 {
+  background-color: #87cefa;
+}
+tr.s3 {
+  background-color: #ff0;
+}
+tr.s4 {
+  background-color: #f00;
+}

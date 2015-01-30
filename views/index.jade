@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  h1= title
+
+  table(border=1 width="100%")
+    thead
+      tr
+        th(width="200") Time
+        th(width="100") Source
+        th Message
+    tbody
+      tr(ng-repeat="(i, row) in news" class="s{{row.severity}}")
+        td  {{row.time}}
+        td  {{row.source}}
+        td  {{row.message}}
