@@ -1,5 +1,7 @@
 # dumpster
 
+[![Join the chat at https://gitter.im/zoonman/dumpster](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zoonman/dumpster?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Little demo for capped collections, tailable cursor and live monitoring in Firefox.
 
 # Setup
