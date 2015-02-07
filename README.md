@@ -27,5 +27,10 @@ Little demo for capped collections, tailable cursor and live monitoring in Firef
 5. Run data generators (you can open several consoles, or use `screen` sessions)
 
         php generator.php
- 
+
+You can run several generators in the same console (add ampersand to the end of command):
+
+        php generator.php &
+
+
 6. Goto http://localhost:3000/
